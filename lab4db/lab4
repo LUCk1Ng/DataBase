@@ -4,7 +4,7 @@ USE universitatea
 SELECT Nr_ore_plan_disciplina, Disciplina FROM discipline 
 ORDER BY Nr_ore_plan_disciplina desc
 
-
+![](screenshots/tasks.jpg)
 
 2. Query 20: Afisati numarul de studenti care au sustinut testul (Testul 2) la disciplina Baze de date in 2018.
 
